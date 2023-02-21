@@ -42,10 +42,10 @@
 				
 				<option style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white" value="gate/usd1CVV.php">𝘾𝙑𝙑 𝘾𝙃𝘼𝙍𝙂𝙀: $1</option>
                
-                <option style="background:rgba(16, 15, 154, 0.281);color:rgb(25, 208, 1);color:white" value="gate/eur1CVV.php">𝘾𝙑𝙑 𝘾𝙃𝘼𝙍𝙂𝙀: €1</option>
                 
                 
-               <option style="background:rgba(16, 15, 154, 0.281);color:rgb(25, 208, 1);color:white" value="gate/eur1CCN.php">𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀: €1</option> 
+                
+               
                 
                 
                 
